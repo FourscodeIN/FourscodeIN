@@ -1,7 +1,8 @@
 <h1 align="center">    Hola, soy Brayan Mesa Palacio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FF0048CE&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnólogo+Análisis+y+Desarrollo+de+Sistemas;Análisis+de+datos;Desarrollo+de+software;Manejo+de+Bases+de+Datos"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FF0048CE&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnólogo+Análisis+y+Desarrollo+de+Sistemas;Análisis+de+datos;Desarrollo+de+software;Manejo+de+Bases+de+Datos"></a>
 </p>
+<!--https://github.com/DenverCoder1/readme-typing-svg-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi
 <!--<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
@@ -36,19 +37,19 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+  <a href="#" target="_blank"> <!--https://www.cprogramming.com-->
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="#" target="_blank"> <!--https://www.w3schools.com/cpp/-->
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="#" target="_blank"> <!--https://www.java.com--> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
+   <a href="#" target="_blank"> <!--https://www.python.org-->
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
 </p>
