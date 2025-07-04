@@ -50,7 +50,7 @@
   </a>
   &emsp;
    <a href="#" target="_blank"> <!--https://www.python.org-->
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
   </a>
   &emsp;
    <a href="#" target="_blank"> <!--https://www.javascript.org-->
