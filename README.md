@@ -9,12 +9,12 @@
 
 
 <br><br>
-- :school: Actualmente soy `Estudiante` de último semestre del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.educatic.com.co/cas/login?service=https%3A%2F%2Fiumafis.educatic.com.co%2Fextranet%2Fenter.do%3Bjsessionid%3D0F346C386A2C5643F4B68700A59A4DBE).
+- :school: Actualmente soy `Estudiante` del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.educatic.com.co/cas/login?service=https%3A%2F%2Fiumafis.educatic.com.co%2Fextranet%2Fenter.do%3Bjsessionid%3D0F346C386A2C5643F4B68700A59A4DBE).
 - :technologist: Me encanta utilizar el software como solución para cada `Problema`.
 - :computer: Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
 - :student: Iniciando estudios de `Inglés`.
 - :nerd_face: Versatiblidad en el área de `Sistemas` en general.
-- :thinking: En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos <a href="https://pmfsedu-my.sharepoint.com/:b:/g/personal/taydes_brayanm_iumafis_edu_co/EUgE7QQYAw9Lr3qNg1nBTEQBJpF9NdRVyomvfFwCqMn15A?e=HyNgdb" download="HDV - BRAYAN MESA PALACIO_1">HDV</a>.
+- :thinking: En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos <a href="https://drive.google.com/file/d/15A_l-FjxkzNuIhgLAvrWam1scKcGCF8d/view?usp=sharing" download="HDV - BRAYAN MESA PALACIO_1">HDV</a>.
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).-->
 <br>
 
@@ -52,6 +52,10 @@
    <a href="#" target="_blank"> <!--https://www.python.org-->
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
+  &emsp;
+   <a href="#" target="_blank"> <!--https://www.javascript.org-->
+    <img alt="Python" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Herramientas
@@ -63,6 +67,10 @@
     <a href="https://github.com/FourscodeIN"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+     &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+	&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
