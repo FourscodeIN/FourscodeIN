@@ -14,7 +14,7 @@
 - :computer: Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
 - :student: Iniciando estudios de `Inglés`.
 - :nerd_face: Versatiblidad en el área de `Sistemas` en general.
-- :thinking: En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos <a href="https://drive.google.com/file/d/15A_l-FjxkzNuIhgLAvrWam1scKcGCF8d/view?usp=sharing" download="HDV - BRAYAN MESA PALACIO_1">HDV</a>.
+- :thinking: En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos <a href="https://drive.google.com/file/d/1AuaBLER3Fd9Pg7usixO9bF0FBTnnJ61Q/view?usp=sharing" download="HDV - BRAYAN MESA PALACIO_1">HDV</a>.
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).-->
 <br>
 
