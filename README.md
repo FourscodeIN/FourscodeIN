@@ -9,7 +9,7 @@
 
 
 <br><br>
-- :school: Actualmente soy `Estudiante` del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.educatic.com.co/cas/login?service=https%3A%2F%2Fiumafis.educatic.com.co%2Fextranet%2Fenter.do%3Bjsessionid%3D0F346C386A2C5643F4B68700A59A4DBE).
+- :school: Actualmente soy `Estudiante` del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas-2/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.edu.co/).
 - :technologist: Me encanta utilizar el software como solución para cada `Problema`.
 - :computer: Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
 - :student: Iniciando estudios de `Inglés`.
