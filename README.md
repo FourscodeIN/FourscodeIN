@@ -8,7 +8,7 @@
 <!--<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 
 
-<br><br>
+<br>
 - 🎓 Actualmente soy `Estudiante` en etapa de graduación del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas-2/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.edu.co/).
 - :computer: Me encanta utilizar el software como solución para cada `Problema`.
 - ⌨️ Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
