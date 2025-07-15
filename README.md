@@ -12,7 +12,7 @@
 - 🎓 Actualmente soy `Estudiante` en etapa de graduación del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas-2/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.edu.co/).
 - :computer: Me encanta utilizar el software como solución para cada `Problema`.
 - ⌨️ Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
-- :🇺🇸: Iniciando estudios de `Inglés`.
+- 🇺🇸 Iniciando estudios de `Inglés`.
 - 📁 Versatiblidad en el área de `Sistemas` en general.
 - 💼 En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos. Revisa mi portafolio <a href="https://drive.google.com/file/d/1LfFnHKy0_DDfdwbAOmSjuduZsI7xdHd_/view?usp=sharing" download="HDV - BRAYAN MESA PALACIO_1">Brym codeIN</a>.
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).-->
@@ -26,7 +26,7 @@
 	<a href="https://www.linkedin.com/in/brayan-mesa-palacio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/FourscodeIN"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/573013198901"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<!-- 	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
 	<!--<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>-->
 	<a href="https://www.instagram.com/brayan.mesa11/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 	<!--<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>-->
