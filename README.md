@@ -9,10 +9,10 @@
 
 
 <br><br>
-- 🎓:school: Actualmente soy `Estudiante` del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas-2/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.edu.co/).
+- :school: Actualmente soy `Estudiante` en etapa de graduación del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas-2/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.edu.co/).
 - :technologist: Me encanta utilizar el software como solución para cada `Problema`.
 - :computer: Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
-- :student: Iniciando estudios de `Inglés`.
+- 🇺🇸 Iniciando estudios de `Inglés`.
 - :nerd_face: Versatiblidad en el área de `Sistemas` en general.
 - :thinking: En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos <a href="https://drive.google.com/file/d/1LfFnHKy0_DDfdwbAOmSjuduZsI7xdHd_/view?usp=sharing" download="HDV - BRAYAN MESA PALACIO_1">HDV</a>.
 <!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).-->
