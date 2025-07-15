@@ -12,10 +12,9 @@
 - 🎓 Actualmente soy `Estudiante` en etapa de graduación del programa [Tecnólogico en Análisis y Desarrollo de Sistemas](https://iumafis.edu.co/programas-2/) en la [Institución Universitaria Marco Fidel Suarez](https://iumafis.edu.co/).
 - :computer: Me encanta utilizar el software como solución para cada `Problema`.
 - ⌨️ Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
-- 🇺🇸 Iniciando estudios de `Inglés`.
+- 🗽 Iniciando estudios de `Inglés`.
 - 📁 Versatiblidad en el área de `Sistemas` en general.
 - 💼 En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos. Revisa mi portafolio <a href="https://drive.google.com/file/d/1LfFnHKy0_DDfdwbAOmSjuduZsI7xdHd_/view?usp=sharing" download="HDV - BRAYAN MESA PALACIO_1">Brym codeIN</a>.
-<!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).-->
 <br>
 
 
