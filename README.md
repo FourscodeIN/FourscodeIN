@@ -14,7 +14,7 @@
 - ⌨️ Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
 - 🗽 Iniciando estudios de `Inglés`.
 - 📁 Versatiblidad en el área de `Sistemas` en general.
-- 💼 En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos. Revisa mi portafolio <a href="https://drive.google.com/file/d/1LfFnHKy0_DDfdwbAOmSjuduZsI7xdHd_/view?usp=sharing" download="HDV - BRAYAN MESA PALACIO_1">Brym codeIN</a>.
+- 💼 En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos. Revisa mi portafolio <a href="https://fourscodein.github.io/brym/">Brym codeIN</a>.
 <br>
 
 
