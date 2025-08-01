@@ -1,6 +1,6 @@
 <h1 align="center">    Hola, soy Brayan Mesa Palacio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FF0048CE&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnólogo+Análisis+y+Desarrollo+de+Sistemas;Análisis+de+datos;Desarrollo+de+software;Manejo+de+Bases+de+Datos"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FF0048CE&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnólogo+Análisis+y+Desarrollo+de+Sistemas;Desarrollo+de+software;Manejo+de+SQL;Seguridad+Informática;Análisis+de+datos;"></a>
 </p>
 <!--https://github.com/DenverCoder1/readme-typing-svg-->
 
