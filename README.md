@@ -44,7 +44,6 @@
 <!--   <a href="#" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>  -->
-  &emsp;
   <a href="#" target="_blank"> <!--https://www.java.com--> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
