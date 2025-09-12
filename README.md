@@ -14,7 +14,7 @@
 - ⌨️ Excelente lógica de `Programación` y planificación de proyectos. <!--`Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.-->
 - 🗽 Iniciando estudios de `Inglés`.
 - 📁 Versatiblidad en el área de `Sistemas` en general.
-- 💼 En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos. Revisa mi curriculum <a href="https://drive.google.com/file/d/1f6HxD9u5GUnFfhHANTWTEYlvSrzk2fCc/view?usp=sharing">CV</a>.
+- 💼 En búsqueda de una `oportunidad de trabajo`, relacionada con mis conocimientos. Revisa mi curriculum <a href="https://drive.google.com/file/d/1NFNWT8gQyawJSaELip-qc8995-O9essj/view?usp=sharing">CV</a>.
 <br>
 
 
