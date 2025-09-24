@@ -64,6 +64,10 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
     <a href="https://github.com/FourscodeIN"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/HTML-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+	&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/css-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
      &emsp;
