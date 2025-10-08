@@ -23,6 +23,7 @@
 <p align="center">
 	<!--<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>-->
 	<a href="https://www.linkedin.com/in/brayan-mesa-palacio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://fourscodein.github.io/brym/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-%2358a6ff.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portafolio"/></a>
 	<a href="https://github.com/FourscodeIN"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/573013198901"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 <!-- 	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
